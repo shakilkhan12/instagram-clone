@@ -1,0 +1,7 @@
+.imageUpload {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    padding: 15px;
+    border: 1px solid lightgray;
+}
